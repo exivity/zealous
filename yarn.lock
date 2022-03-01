@@ -1971,7 +1971,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@jest/core@npm:^26.6.0, @jest/core@npm:^26.6.3":
+"@jest/core@npm:^26.6.3":
   version: 26.6.3
   resolution: "@jest/core@npm:26.6.3"
   dependencies:
@@ -5383,7 +5383,7 @@ __metadata:
     "@testing-library/react-hooks": 7.0.2
     "@types/jest": 26.0.24
     "@types/styled-components": 5.1.23
-    jest: 26.6.0
+    jest: 26.6.3
     react-scripts: 5.0.0
     styled-components: 5.3.3
   peerDependencies:
@@ -12007,7 +12007,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jest-cli@npm:^26.6.0":
+"jest-cli@npm:^26.6.3":
   version: 26.6.3
   resolution: "jest-cli@npm:26.6.3"
   dependencies:
@@ -12868,16 +12868,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jest@npm:26.6.0":
-  version: 26.6.0
-  resolution: "jest@npm:26.6.0"
+"jest@npm:26.6.3":
+  version: 26.6.3
+  resolution: "jest@npm:26.6.3"
   dependencies:
-    "@jest/core": ^26.6.0
+    "@jest/core": ^26.6.3
     import-local: ^3.0.2
-    jest-cli: ^26.6.0
+    jest-cli: ^26.6.3
   bin:
     jest: bin/jest.js
-  checksum: e0d3efff0dc2a31c453a3f7d87586e5d6c0f008c9b827bb9204edde09288f922ddfb3a8917480bf68f4ac0298be28637daef98ebaaac65ea23d3cb754a6620c4
+  checksum: 3a9b4c70e9bd5391e7367a0036045c1d3545c2a39e1439a71fb4b59b1748bc34e2ccb324faa1046b99bffc8dc2ed7b3c59016c462255b2646f5fa9300351f914
   languageName: node
   linkType: hard
 
